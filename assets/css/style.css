@@ -1,0 +1,33 @@
+body {}
+    
+
+.weather-container {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    height: 100vh;
+    margin: 0;
+}
+
+.search-container {
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px;
+}
+
+#weather-info {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    justify-content: center;
+}
+
+header{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
